@@ -1,0 +1,30 @@
+:root {
+  font-family: system-ui, sans-serif;
+  color: #e7eaf0;
+  background: #10131a;
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  padding: 24px;
+}
+
+main {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 1.75rem;
+}
+
+p {
+  line-height: 1.6;
+}
+
+canvas {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}

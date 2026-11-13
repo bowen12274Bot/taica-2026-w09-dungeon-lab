@@ -1,0 +1,8 @@
+Dungeon Lab Codex Handoff
+
+This is a handoff-only project skeleton; no game code or assets yet.
+Two blank specs (0 bytes):
+- docs/requirements/round-01-map.md
+- docs/requirements/round-02-movement.md
+
+Start with HANDOFF_TO_CODEX.md.
