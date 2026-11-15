@@ -1,0 +1,26 @@
+$ npm.cmd run build
+
+> dungeon-lab@0.0.0 build
+> npm run typecheck && vite build
+
+
+> dungeon-lab@0.0.0 typecheck
+> tsc --noEmit
+
+vite v8.3.8 building client environment for production...
+transforming...
+✓ 16 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                     1.13 kB │ gzip:   0.66 kB
+dist/assets/index-BxQmjhMN.css      1.36 kB │ gzip:   0.69 kB
+dist/assets/index-CHi8rBUY.js   1,376.03 kB │ gzip: 360.70 kB
+
+✓ built in 639ms
+[plugin builtin:vite-reporter] 
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rolldownOptions.output.codeSplitting to improve chunking: https://rolldown.rs/reference/OutputOptions.codeSplitting
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+
+Exit code: 0

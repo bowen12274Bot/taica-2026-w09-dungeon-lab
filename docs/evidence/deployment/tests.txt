@@ -1,0 +1,27 @@
+$ npm.cmd test
+
+> dungeon-lab@0.0.0 test
+> node --test tests/*.test.mjs
+
+✔ merged collision rectangles cover every blocked cell exactly once, without covering floor (1.0507ms)
+✔ all eight directions have speed 64; opposite inputs cancel per axis (0.3475ms)
+✔ facing follows actual displacement, diagonal ties prefer vertical, idle preserves facing (1.5946ms)
+✔ original knight has 3 distinct full 16×16 poses in every direction (0.6846ms)
+✔ the entire 20 × 12 map matches the approved requirement verbatim (3.0419ms)
+✔ only the interior floor is walkable; doors, perimeter and both 2 × 2 blocks are closed (0.3969ms)
+✔ spawn stays (10,9) / world (8,56), and uses ordinary floor art (0.8906ms)
+✔ all cell centers round-trip through center-origin world coordinates (1.2769ms)
+✔ continuous and negative positions keep their fractions; boundaries are half-open (0.3886ms)
+✔ all walkable cells connect to the reserved spawn (0.3735ms)
+✔ art references exist in the original 16 px packed sheet (1.1345ms)
+✔ responsive scale fits both dimensions and prioritizes integer zoom (0.1963ms)
+ℹ tests 12
+ℹ suites 0
+ℹ pass 12
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 168.44
+
+Exit code: 0
