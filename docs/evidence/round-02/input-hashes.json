@@ -1,0 +1,66 @@
+{
+  "docs/requirements/round-01-map.md": {
+    "sha256": "52dc1004b77c859f15577f44146d34be17816722abd7d17fb852a157363b1a00",
+    "lfNormalizedSha256": "52dc1004b77c859f15577f44146d34be17816722abd7d17fb852a157363b1a00",
+    "matchesRound01Evidence": true
+  },
+  "docs/requirements/round-02-movement.md": {
+    "sha256": "d4db9dcf3677401b937c7ca922ef4ffb7de0eeee6a570bb8e0122bd9b7f8140a",
+    "lfNormalizedSha256": "d4db9dcf3677401b937c7ca922ef4ffb7de0eeee6a570bb8e0122bd9b7f8140a",
+    "matchesRound01Evidence": true
+  },
+  "AGENTS.md": {
+    "sha256": "76c106a455eeb7c2db609d6059fa85e04cf62c5d0f7772a7e163cffd27acc672",
+    "lfNormalizedSha256": "76c106a455eeb7c2db609d6059fa85e04cf62c5d0f7772a7e163cffd27acc672",
+    "matchesRound01Evidence": true
+  },
+  ".agents/skills/phaser-2d-game/SKILL.md": {
+    "sha256": "5706db3d7b8c541be364f56019d2691c352a03bfc3372848a2a3a1fde8ac6d69",
+    "lfNormalizedSha256": "5706db3d7b8c541be364f56019d2691c352a03bfc3372848a2a3a1fde8ac6d69",
+    "matchesRound01Evidence": true
+  },
+  ".agents/skills/game-playtest/SKILL.md": {
+    "sha256": "0a34ae047a673a7da79c09fd12c08f5a339fa08f5c33673880978a9538497468",
+    "lfNormalizedSha256": "0a34ae047a673a7da79c09fd12c08f5a339fa08f5c33673880978a9538497468",
+    "matchesRound01Evidence": true
+  },
+  "public/assets/dungeon/tilemap_packed.png": {
+    "sha256": "d24e60a41e4ac7a745c0304dfde121143688557f40215f23221c29cfe683825f",
+    "matchesRound01Evidence": true
+  },
+  "public/assets/dungeon/License.txt": {
+    "sha256": "9f574a2f1f636a3db8a0665ba90212f34e2b5e61ecb533d77c05237766374111",
+    "lfNormalizedSha256": "23d300a970459e1904df1d86e74cfac715939c36d70707596660f5e3eab30746",
+    "matchesRound01Evidence": true
+  },
+  "src/map/room.ts": {
+    "sha256": "1d7ec87d6e70342d407e80fc78804033c564d0e39709526b83b9950d6a0c7680",
+    "lfNormalizedSha256": "1d7ec87d6e70342d407e80fc78804033c564d0e39709526b83b9950d6a0c7680",
+    "matchesRound01Commit": true
+  },
+  "src/rendering/room-art.ts": {
+    "sha256": "729ae695dac4b9f316d9d1c5439ca3e122233c495b2a030af8fd728b676557d8",
+    "lfNormalizedSha256": "729ae695dac4b9f316d9d1c5439ca3e122233c495b2a030af8fd728b676557d8",
+    "matchesRound01Commit": true
+  },
+  "src/rendering/fit-room.ts": {
+    "sha256": "25d96e0caf1871d07843c767fcd13cb22ccc4fc65f9ec73980e0b2ce4265f622",
+    "lfNormalizedSha256": "25d96e0caf1871d07843c767fcd13cb22ccc4fc65f9ec73980e0b2ce4265f622",
+    "matchesRound01Commit": true
+  },
+  "src/style.css": {
+    "sha256": "09af2ef3261c8f5d8ed03395af5edf5f4701d7832769325a42c025cbd5c46be4",
+    "lfNormalizedSha256": "09af2ef3261c8f5d8ed03395af5edf5f4701d7832769325a42c025cbd5c46be4",
+    "matchesRound01Commit": true
+  },
+  "package.json": {
+    "sha256": "77b015f82a7907e52fe09370efc020a7a28cc1c69dd9884061933da560488f8d",
+    "lfNormalizedSha256": "77b015f82a7907e52fe09370efc020a7a28cc1c69dd9884061933da560488f8d",
+    "matchesRound01Commit": true
+  },
+  "package-lock.json": {
+    "sha256": "d31574133f00a487f2e5b68b812a2cbbd4e30c14e73a16a2c25b4084eb94b247",
+    "lfNormalizedSha256": "d31574133f00a487f2e5b68b812a2cbbd4e30c14e73a16a2c25b4084eb94b247",
+    "matchesRound01Commit": true
+  }
+}

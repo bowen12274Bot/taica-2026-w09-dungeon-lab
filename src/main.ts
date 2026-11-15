@@ -13,7 +13,7 @@ const resize = () => {
 };
 const observer = new ResizeObserver(resize);
 
-const game = new Phaser.Game({
+export const game = new Phaser.Game({
   type: Phaser.AUTO,
   parent: 'game',
   width: ROOM.width,
@@ -23,7 +23,8 @@ const game = new Phaser.Game({
   roundPixels: true,
   banner: false,
   audio: { noAudio: true },
-  input: { keyboard: false, mouse: false, touch: false, gamepad: false },
+  input: { keyboard: true, mouse: false, touch: false, gamepad: false },
+  physics: { default: 'arcade', arcade: { gravity: { x: 0, y: 0 }, fixedStep: true, fps: 60 } },
   scale: { mode: Phaser.Scale.NONE, autoRound: false },
   scene: [RoomScene],
   callbacks: {

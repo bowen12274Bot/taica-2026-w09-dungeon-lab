@@ -1,0 +1,801 @@
+{
+  "state": {
+    "canvas": {
+      "bottom": 824.4499969482422,
+      "height": 576,
+      "left": 240,
+      "right": 1200,
+      "top": 248.4499969482422,
+      "width": 960,
+      "x": 240,
+      "y": 248.4499969482422
+    },
+    "canvases": 1,
+    "ready": true,
+    "scripts": [
+      "http://127.0.0.1:4173/assets/index-CHi8rBUY.js"
+    ]
+  },
+  "console": {
+    "entries": [
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      }
+    ],
+    "truncated": false
+  },
+  "network": {
+    "entries": [
+      {
+        "url": "http://127.0.0.1:5173/src/main.ts?t=1794722325186",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/node_modules/.vite/deps/phaser.js?v=d8b00ffe",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/map/room.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/fit-room.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/scenes/RoomScene.ts?t=1794722325186",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/style.css?t=1794719822003",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/room-art.ts?t=1794719754601",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/Player.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/map/collision.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/player-view.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/input.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/movement.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/knight-art.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326220
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX/AP804Oa6AAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722326513
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABVJREFUeF7NwIEAAAAAgKD9qdeocAMAoAABm3DkcAAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722326513
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJ9JREFUeNq01ssOwyAMRFG46v//Mt1ESmgh+DFmE2GPOBARKb2NVjo+17PXLD8a1+pl5+A+wSgFygymWYHBb0FtsKhJDdZlncG2IzJ4ayoMDv20wTmSMzClEgbWYNTAkQ0Z+OJ+A/eWnAaR9+oxCF4Os0H8htsMUp+pwcgBBiMNnAwF8GqIgL2hAzaGFFgZauDPKABmowZ4GL369/0rwACp2yA/ttmvsQAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722326513
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABdJREFUeNpi/P//PwMMMDEgAdwcgAADAJZuAwXJYZOzAAAAAElFTkSuQmCC",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722326513
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX//wCKxvRFAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722326513
+      },
+      {
+        "url": "http://127.0.0.1:5173/assets/dungeon/tilemap_packed.png",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722326513
+      },
+      {
+        "url": "blob:http://127.0.0.1:5173/3f724417-b7c3-4cf0-b829-0fd9d552f0dc",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722326513
+      },
+      {
+        "url": "http://127.0.0.1:5173/",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/html",
+        "timestamp": 1794722332319
+      },
+      {
+        "url": "http://127.0.0.1:5173/@vite/client",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332420
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/main.ts?t=1794722325186",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332420
+      },
+      {
+        "url": "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332420
+      },
+      {
+        "url": "http://127.0.0.1:5173/node_modules/.vite/deps/phaser.js?v=d8b00ffe",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332420
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/map/room.ts",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332420
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/fit-room.ts",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332420
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/scenes/RoomScene.ts?t=1794722325186",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332420
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/style.css?t=1794719822003",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332420
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/room-art.ts?t=1794719754601",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332421
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/Player.ts?t=1794722111869",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332421
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/map/collision.ts",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332421
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/player-view.ts?t=1794722111869",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332421
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/input.ts",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332421
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/movement.ts",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332421
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/knight-art.ts?t=1794722111869",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332421
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX/AP804Oa6AAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722332513
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABVJREFUeF7NwIEAAAAAgKD9qdeocAMAoAABm3DkcAAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722332513
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJ9JREFUeNq01ssOwyAMRFG46v//Mt1ESmgh+DFmE2GPOBARKb2NVjo+17PXLD8a1+pl5+A+wSgFygymWYHBb0FtsKhJDdZlncG2IzJ4ayoMDv20wTmSMzClEgbWYNTAkQ0Z+OJ+A/eWnAaR9+oxCF4Os0H8htsMUp+pwcgBBiMNnAwF8GqIgL2hAzaGFFgZauDPKABmowZ4GL369/0rwACp2yA/ttmvsQAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722332513
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABdJREFUeNpi/P//PwMMMDEgAdwcgAADAJZuAwXJYZOzAAAAAElFTkSuQmCC",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722332513
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX//wCKxvRFAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722332513
+      },
+      {
+        "url": "http://127.0.0.1:5173/assets/dungeon/tilemap_packed.png",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722332513
+      },
+      {
+        "url": "blob:http://127.0.0.1:5173/3e69db52-66c9-4824-9631-085e1effe53e",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722332624
+      },
+      {
+        "url": "http://127.0.0.1:5173/",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/html",
+        "timestamp": 1794722401013
+      },
+      {
+        "url": "http://127.0.0.1:5173/@vite/client",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401114
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/main.ts?t=1794722325186",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401114
+      },
+      {
+        "url": "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401114
+      },
+      {
+        "url": "http://127.0.0.1:5173/node_modules/.vite/deps/phaser.js?v=d8b00ffe",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401114
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/map/room.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401114
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/fit-room.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401114
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/scenes/RoomScene.ts?t=1794722325186",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401114
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/style.css?t=1794719822003",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401114
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/room-art.ts?t=1794719754601",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401115
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/Player.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401115
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/map/collision.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401115
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/player-view.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401115
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/input.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401115
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/movement.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401115
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/knight-art.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401115
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX/AP804Oa6AAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722401517
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABVJREFUeF7NwIEAAAAAgKD9qdeocAMAoAABm3DkcAAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722401517
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJ9JREFUeNq01ssOwyAMRFG46v//Mt1ESmgh+DFmE2GPOBARKb2NVjo+17PXLD8a1+pl5+A+wSgFygymWYHBb0FtsKhJDdZlncG2IzJ4ayoMDv20wTmSMzClEgbWYNTAkQ0Z+OJ+A/eWnAaR9+oxCF4Os0H8htsMUp+pwcgBBiMNnAwF8GqIgL2hAzaGFFgZauDPKABmowZ4GL369/0rwACp2yA/ttmvsQAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722401517
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABdJREFUeNpi/P//PwMMMDEgAdwcgAADAJZuAwXJYZOzAAAAAElFTkSuQmCC",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722401517
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX//wCKxvRFAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722401517
+      },
+      {
+        "url": "http://127.0.0.1:5173/assets/dungeon/tilemap_packed.png",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722401517
+      },
+      {
+        "url": "blob:http://127.0.0.1:5173/01595ece-8e7b-4cd6-a0a6-d46fe11bf2ae",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722401517
+      },
+      {
+        "url": "http://127.0.0.1:5173/",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/html",
+        "timestamp": 1794722424114
+      },
+      {
+        "url": "http://127.0.0.1:5173/@vite/client",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424114
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/main.ts?t=1794722325186",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424114
+      },
+      {
+        "url": "http://127.0.0.1:5173/node_modules/.vite/deps/phaser.js?v=d8b00ffe",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424114
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/map/room.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424218
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/fit-room.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424218
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/scenes/RoomScene.ts?t=1794722325186",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424218
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/style.css?t=1794719822003",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/room-art.ts?t=1794719754601",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/Player.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/map/collision.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/player-view.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/input.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/movement.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/knight-art.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX/AP804Oa6AAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722426918
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABVJREFUeF7NwIEAAAAAgKD9qdeocAMAoAABm3DkcAAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722426918
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJ9JREFUeNq01ssOwyAMRFG46v//Mt1ESmgh+DFmE2GPOBARKb2NVjo+17PXLD8a1+pl5+A+wSgFygymWYHBb0FtsKhJDdZlncG2IzJ4ayoMDv20wTmSMzClEgbWYNTAkQ0Z+OJ+A/eWnAaR9+oxCF4Os0H8htsMUp+pwcgBBiMNnAwF8GqIgL2hAzaGFFgZauDPKABmowZ4GL369/0rwACp2yA/ttmvsQAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722426918
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABdJREFUeNpi/P//PwMMMDEgAdwcgAADAJZuAwXJYZOzAAAAAElFTkSuQmCC",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722426918
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX//wCKxvRFAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722426918
+      },
+      {
+        "url": "http://127.0.0.1:5173/assets/dungeon/tilemap_packed.png",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722426918
+      },
+      {
+        "url": "blob:http://127.0.0.1:5173/548e7667-d061-43c7-81bb-3e661b1a4206",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722426919
+      },
+      {
+        "url": "http://127.0.0.1:4173/",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/html",
+        "timestamp": 1794722616021
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/index-CHi8rBUY.js",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722616122
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/index-BxQmjhMN.css",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/css",
+        "timestamp": 1794722616122
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX/AP804Oa6AAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722616324
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABVJREFUeF7NwIEAAAAAgKD9qdeocAMAoAABm3DkcAAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722616324
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJ9JREFUeNq01ssOwyAMRFG46v//Mt1ESmgh+DFmE2GPOBARKb2NVjo+17PXLD8a1+pl5+A+wSgFygymWYHBb0FtsKhJDdZlncG2IzJ4ayoMDv20wTmSMzClEgbWYNTAkQ0Z+OJ+A/eWnAaR9+oxCF4Os0H8htsMUp+pwcgBBiMNnAwF8GqIgL2hAzaGFFgZauDPKABmowZ4GL369/0rwACp2yA/ttmvsQAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722616324
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABdJREFUeNpi/P//PwMMMDEgAdwcgAADAJZuAwXJYZOzAAAAAElFTkSuQmCC",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722616324
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX//wCKxvRFAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722616324
+      },
+      {
+        "url": "http://127.0.0.1:4173/assets/dungeon/tilemap_packed.png",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722616324
+      },
+      {
+        "url": "blob:http://127.0.0.1:4173/d2dae1e2-dfa5-49ea-9bbc-f276ccd4ca79",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722616324
+      }
+    ],
+    "truncated": true
+  }
+}

@@ -1,0 +1,909 @@
+{
+  "passed": 58,
+  "records": [
+    {
+      "id": "initialization",
+      "pass": true,
+      "result": {
+        "facing": "down",
+        "frame": 0,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": 8,
+          "y": 56
+        }
+      }
+    },
+    {
+      "id": "T01",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 4,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 0,
+          "y": -12.799999999999955
+        }
+      }
+    },
+    {
+      "id": "T02",
+      "pass": true,
+      "result": {
+        "animation": "walk-left",
+        "facing": "left",
+        "frame": 7,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": -12.799999999999955,
+          "y": 0
+        }
+      }
+    },
+    {
+      "id": "T03",
+      "pass": true,
+      "result": {
+        "animation": "walk-down",
+        "facing": "down",
+        "frame": 1,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 0,
+          "y": 12.799999999999955
+        }
+      }
+    },
+    {
+      "id": "T04",
+      "pass": true,
+      "result": {
+        "animation": "walk-right",
+        "facing": "right",
+        "frame": 10,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 12.799999999999955,
+          "y": 0
+        }
+      }
+    },
+    {
+      "id": "T05",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 5,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": -74.74516600406102,
+          "y": 10.745166004061034
+        }
+      }
+    },
+    {
+      "id": "T06",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "down",
+        "frame": 0,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": 8,
+          "y": 56
+        }
+      }
+    },
+    {
+      "id": "opposing-axes",
+      "pass": true,
+      "result": {
+        "animation": "walk-right",
+        "facing": "right",
+        "frame": 9,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": 20.799999999999955,
+          "y": 56
+        }
+      }
+    },
+    {
+      "id": "T07",
+      "pass": true,
+      "result": {
+        "animation": "walk-right",
+        "facing": "right",
+        "frame": 9,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": 31.466666666666583,
+          "y": 56
+        }
+      }
+    },
+    {
+      "id": "T08-A",
+      "pass": true,
+      "result": {
+        "animation": "walk-left",
+        "facing": "left",
+        "frame": 6,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": -139,
+          "y": 56
+        }
+      }
+    },
+    {
+      "id": "T08-D",
+      "pass": true,
+      "result": {
+        "animation": "walk-right",
+        "facing": "right",
+        "frame": 9,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": 139,
+          "y": 56
+        }
+      }
+    },
+    {
+      "id": "T08-W",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 3,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": -120,
+          "y": -76
+        }
+      }
+    },
+    {
+      "id": "T08-S",
+      "pass": true,
+      "result": {
+        "animation": "walk-down",
+        "facing": "down",
+        "frame": 0,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": 8,
+          "y": 76
+        }
+      }
+    },
+    {
+      "id": "T09--80-D",
+      "pass": true,
+      "result": {
+        "animation": "walk-right",
+        "facing": "right",
+        "frame": 9,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": -85,
+          "y": -32
+        }
+      }
+    },
+    {
+      "id": "T09--80-A",
+      "pass": true,
+      "result": {
+        "animation": "walk-left",
+        "facing": "left",
+        "frame": 6,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": -43,
+          "y": -32
+        }
+      }
+    },
+    {
+      "id": "T09--80-S",
+      "pass": true,
+      "result": {
+        "animation": "walk-down",
+        "facing": "down",
+        "frame": 0,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": -64,
+          "y": -52
+        }
+      }
+    },
+    {
+      "id": "T09--80-W",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 3,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": -64,
+          "y": -12
+        }
+      }
+    },
+    {
+      "id": "T09-48-D",
+      "pass": true,
+      "result": {
+        "animation": "walk-right",
+        "facing": "right",
+        "frame": 9,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": 43,
+          "y": 16
+        }
+      }
+    },
+    {
+      "id": "T09-48-A",
+      "pass": true,
+      "result": {
+        "animation": "walk-left",
+        "facing": "left",
+        "frame": 6,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": 85,
+          "y": 16
+        }
+      }
+    },
+    {
+      "id": "T09-48-S",
+      "pass": true,
+      "result": {
+        "animation": "walk-down",
+        "facing": "down",
+        "frame": 0,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": 64,
+          "y": -4
+        }
+      }
+    },
+    {
+      "id": "T09-48-W",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 3,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": 64,
+          "y": 36
+        }
+      }
+    },
+    {
+      "id": "T10",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 5,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 139,
+          "y": 2.7451660040611756
+        }
+      }
+    },
+    {
+      "id": "T10-horizontal",
+      "pass": true,
+      "result": {
+        "animation": "walk-right",
+        "facing": "right",
+        "frame": 11,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 30.62741699796976,
+          "y": -76
+        }
+      }
+    },
+    {
+      "id": "T11--8",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 3,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": -8,
+          "y": -76
+        }
+      }
+    },
+    {
+      "id": "T11-8",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 3,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": 8,
+          "y": -76
+        }
+      }
+    },
+    {
+      "id": "T12",
+      "pass": true,
+      "result": {
+        "animation": "walk-left",
+        "facing": "left",
+        "frame": 6,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": -13.333333333333258,
+          "y": 56
+        }
+      }
+    },
+    {
+      "id": "T13",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 5,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 8,
+          "y": -7.999999999999773
+        }
+      }
+    },
+    {
+      "frames": [
+        3,
+        4,
+        5
+      ],
+      "id": "T14-up",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 5,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 8,
+          "y": -7.999999999999773
+        }
+      }
+    },
+    {
+      "id": "T15-up",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 3,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": 8,
+          "y": -7.999999999999773
+        }
+      }
+    },
+    {
+      "frames": [
+        0,
+        1,
+        2
+      ],
+      "id": "T14-down",
+      "pass": true,
+      "result": {
+        "animation": "walk-down",
+        "facing": "down",
+        "frame": 2,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 0,
+          "y": 3.9999999999999716
+        }
+      }
+    },
+    {
+      "id": "T15-down",
+      "pass": true,
+      "result": {
+        "animation": "walk-down",
+        "facing": "down",
+        "frame": 0,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": 0,
+          "y": 3.9999999999999716
+        }
+      }
+    },
+    {
+      "frames": [
+        6,
+        7,
+        8
+      ],
+      "id": "T14-left",
+      "pass": true,
+      "result": {
+        "animation": "walk-left",
+        "facing": "left",
+        "frame": 8,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": -63.99999999999977,
+          "y": 56
+        }
+      }
+    },
+    {
+      "id": "T15-left",
+      "pass": true,
+      "result": {
+        "animation": "walk-left",
+        "facing": "left",
+        "frame": 6,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": -63.99999999999977,
+          "y": 56
+        }
+      }
+    },
+    {
+      "frames": [
+        9,
+        10,
+        11
+      ],
+      "id": "T14-right",
+      "pass": true,
+      "result": {
+        "animation": "walk-right",
+        "facing": "right",
+        "frame": 11,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 63.99999999999977,
+          "y": 56
+        }
+      }
+    },
+    {
+      "id": "T15-right",
+      "pass": true,
+      "result": {
+        "animation": "walk-right",
+        "facing": "right",
+        "frame": 9,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": 63.99999999999977,
+          "y": 56
+        }
+      }
+    },
+    {
+      "distances": [
+        {
+          "distance": 63.99999999999977,
+          "fps": 30
+        },
+        {
+          "distance": 63.99999999999977,
+          "fps": 60
+        },
+        {
+          "distance": 63.99999999999977,
+          "fps": 120
+        }
+      ],
+      "id": "frame-rate-independence",
+      "pass": true,
+      "result": {
+        "animation": "walk-right",
+        "facing": "right",
+        "frame": 11,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 63.99999999999977,
+          "y": 56
+        }
+      }
+    },
+    {
+      "id": "keys-W+A",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 4,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": -9.050966799187904,
+          "y": -9.050966799187734
+        }
+      }
+    },
+    {
+      "id": "keys-W+D",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 5,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 9.050966799187904,
+          "y": -9.050966799187734
+        }
+      }
+    },
+    {
+      "id": "keys-S+A",
+      "pass": true,
+      "result": {
+        "animation": "walk-down",
+        "facing": "down",
+        "frame": 1,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": -9.050966799187904,
+          "y": 9.050966799187734
+        }
+      }
+    },
+    {
+      "id": "keys-S+D",
+      "pass": true,
+      "result": {
+        "animation": "walk-down",
+        "facing": "down",
+        "frame": 2,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 9.050966799187904,
+          "y": 9.050966799187734
+        }
+      }
+    },
+    {
+      "id": "keys-ArrowUp",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 4,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 0,
+          "y": -12.799999999999955
+        }
+      }
+    },
+    {
+      "id": "keys-ArrowDown",
+      "pass": true,
+      "result": {
+        "animation": "walk-down",
+        "facing": "down",
+        "frame": 1,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 0,
+          "y": 12.799999999999955
+        }
+      }
+    },
+    {
+      "id": "keys-ArrowLeft",
+      "pass": true,
+      "result": {
+        "animation": "walk-left",
+        "facing": "left",
+        "frame": 7,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": -12.799999999999955,
+          "y": 0
+        }
+      }
+    },
+    {
+      "id": "keys-ArrowRight",
+      "pass": true,
+      "result": {
+        "animation": "walk-right",
+        "facing": "right",
+        "frame": 10,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 12.799999999999955,
+          "y": 0
+        }
+      }
+    },
+    {
+      "id": "keys-W+ArrowRight",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 4,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 9.050966799187904,
+          "y": -9.050966799187734
+        }
+      }
+    },
+    {
+      "id": "corner-W+A",
+      "pass": true,
+      "result": {
+        "animation": "walk-down",
+        "facing": "down",
+        "frame": 1,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": -129.94903320081218,
+          "y": -66.94903320081218
+        }
+      }
+    },
+    {
+      "id": "corner-W+D",
+      "pass": true,
+      "result": {
+        "animation": "walk-down",
+        "facing": "down",
+        "frame": 1,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 129.94903320081244,
+          "y": -66.94903320081218
+        }
+      }
+    },
+    {
+      "id": "corner-S+A",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 4,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": -129.94903320081218,
+          "y": 66.9490332008121
+        }
+      }
+    },
+    {
+      "id": "corner-S+D",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 4,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 129.94903320081244,
+          "y": 66.9490332008121
+        }
+      }
+    },
+    {
+      "id": "obstacle-corner--80,-92,-60",
+      "pass": true,
+      "result": {
+        "animation": "walk-down",
+        "facing": "down",
+        "frame": 2,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": -1.490332008122266,
+          "y": -9.762154937123668
+        }
+      }
+    },
+    {
+      "id": "obstacle-corner--80,-36,-60",
+      "pass": true,
+      "result": {
+        "animation": "walk-down",
+        "facing": "down",
+        "frame": 2,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": -126.50966799187773,
+          "y": -9.762154937123668
+        }
+      }
+    },
+    {
+      "id": "obstacle-corner--80,-92,-4",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 5,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": -1.490332008122266,
+          "y": -54.23784506287636
+        }
+      }
+    },
+    {
+      "id": "obstacle-corner--80,-36,-4",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 5,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": -126.50966799187773,
+          "y": -54.23784506287636
+        }
+      }
+    },
+    {
+      "id": "obstacle-corner-48,36,-12",
+      "pass": true,
+      "result": {
+        "animation": "walk-down",
+        "facing": "down",
+        "frame": 2,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 126.50966799187825,
+          "y": 38.23784506287606
+        }
+      }
+    },
+    {
+      "id": "obstacle-corner-48,92,-12",
+      "pass": true,
+      "result": {
+        "animation": "walk-down",
+        "facing": "down",
+        "frame": 2,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 1.4903320081209586,
+          "y": 38.23784506287606
+        }
+      }
+    },
+    {
+      "id": "obstacle-corner-48,36,44",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 5,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 126.50966799187825,
+          "y": -6.237845062876019
+        }
+      }
+    },
+    {
+      "id": "obstacle-corner-48,92,44",
+      "pass": true,
+      "result": {
+        "animation": "walk-up",
+        "facing": "up",
+        "frame": 5,
+        "moving": true,
+        "playing": true,
+        "world": {
+          "x": 1.4903320081209586,
+          "y": -6.237845062876019
+        }
+      }
+    },
+    {
+      "id": "blur",
+      "pass": true,
+      "result": {
+        "animation": "walk-right",
+        "facing": "right",
+        "frame": 9,
+        "moving": false,
+        "playing": false,
+        "world": {
+          "x": 18.66666666666663,
+          "y": 56
+        }
+      }
+    }
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.250 Safari/537.36"
+}

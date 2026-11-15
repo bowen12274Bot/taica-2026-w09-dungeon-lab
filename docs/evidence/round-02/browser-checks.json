@@ -1,0 +1,1050 @@
+{
+  "live": {
+    "after": {
+      "x": 41.06666666666655,
+      "y": 56
+    },
+    "elapsed": 505.69999998807907,
+    "frames": [
+      9,
+      10,
+      11
+    ],
+    "initial": {
+      "x": 8,
+      "y": 56
+    },
+    "moving": false,
+    "playing": false,
+    "stopped": {
+      "x": 41.06666666666655,
+      "y": 56
+    }
+  },
+  "layouts": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "body": [
+        10,
+        8
+      ],
+      "camera": [
+        0,
+        0,
+        1
+      ],
+      "canvas": {
+        "bottom": 824.4499969482422,
+        "height": 576,
+        "left": 240,
+        "right": 1200,
+        "top": 248.4499969482422,
+        "width": 960,
+        "x": 240,
+        "y": 248.4499969482422
+      },
+      "container": {
+        "bottom": 893.5999908447266,
+        "height": 714.2999877929688,
+        "left": 180.8000030517578,
+        "right": 1259.2000274658203,
+        "top": 179.3000030517578,
+        "width": 1078.4000244140625,
+        "x": 180.8000030517578,
+        "y": 179.3000030517578
+      },
+      "count": 1,
+      "imageRendering": "pixelated",
+      "native": [
+        320,
+        192
+      ],
+      "ready": true,
+      "scrollWidth": 1440,
+      "world": {
+        "x": 41.06666666666655,
+        "y": 56
+      }
+    },
+    {
+      "name": "compact",
+      "width": 1024,
+      "height": 768,
+      "body": [
+        10,
+        8
+      ],
+      "camera": [
+        0,
+        0,
+        1
+      ],
+      "canvas": {
+        "bottom": 612.4499969482422,
+        "height": 384,
+        "left": 192,
+        "right": 832,
+        "top": 228.4499969482422,
+        "width": 640,
+        "x": 192,
+        "y": 228.4499969482422
+      },
+      "container": {
+        "bottom": 661.6000213623047,
+        "height": 482.3000183105469,
+        "left": 52.79999923706055,
+        "right": 971.200023651123,
+        "top": 179.3000030517578,
+        "width": 918.4000244140625,
+        "x": 52.79999923706055,
+        "y": 179.3000030517578
+      },
+      "count": 1,
+      "imageRendering": "pixelated",
+      "native": [
+        320,
+        192
+      ],
+      "ready": true,
+      "scrollWidth": 1024,
+      "world": {
+        "x": 41.06666666666655,
+        "y": 56
+      }
+    },
+    {
+      "name": "narrow",
+      "width": 390,
+      "height": 844,
+      "body": [
+        10,
+        8
+      ],
+      "camera": [
+        0,
+        0,
+        1
+      ],
+      "canvas": {
+        "bottom": 545.25,
+        "height": 192,
+        "left": 35.20000076293945,
+        "right": 355.20000076293945,
+        "top": 353.25,
+        "width": 320,
+        "x": 35.20000076293945,
+        "y": 353.25
+      },
+      "container": {
+        "bottom": 755.6000213623047,
+        "height": 612.7000122070312,
+        "left": 28.80000114440918,
+        "right": 361.60001945495605,
+        "top": 142.90000915527344,
+        "width": 332.8000183105469,
+        "x": 28.80000114440918,
+        "y": 142.90000915527344
+      },
+      "count": 1,
+      "imageRendering": "pixelated",
+      "native": [
+        320,
+        192
+      ],
+      "ready": true,
+      "scrollWidth": 390,
+      "world": {
+        "x": 41.06666666666655,
+        "y": 56
+      }
+    },
+    {
+      "name": "small",
+      "width": 320,
+      "height": 640,
+      "body": [
+        10,
+        8
+      ],
+      "camera": [
+        0,
+        0,
+        1
+      ],
+      "canvas": {
+        "bottom": 425.84999084472656,
+        "height": 157.1999969482422,
+        "left": 29,
+        "right": 291,
+        "top": 268.6499938964844,
+        "width": 262,
+        "x": 29,
+        "y": 268.6499938964844
+      },
+      "container": {
+        "bottom": 551.6000213623047,
+        "height": 408.70001220703125,
+        "left": 28.80000114440918,
+        "right": 291.19999504089355,
+        "top": 142.90000915527344,
+        "width": 262.3999938964844,
+        "x": 28.80000114440918,
+        "y": 142.90000915527344
+      },
+      "count": 1,
+      "imageRendering": "pixelated",
+      "native": [
+        320,
+        192
+      ],
+      "ready": true,
+      "scrollWidth": 320,
+      "world": {
+        "x": 41.06666666666655,
+        "y": 56
+      }
+    },
+    {
+      "name": "landscape",
+      "width": 844,
+      "height": 390,
+      "body": [
+        10,
+        8
+      ],
+      "camera": [
+        0,
+        0,
+        1
+      ],
+      "canvas": {
+        "bottom": 293.90000915527344,
+        "height": 121,
+        "left": 313.5625,
+        "right": 515.2250061035156,
+        "top": 172.90000915527344,
+        "width": 201.66250610351562,
+        "x": 313.5625,
+        "y": 172.90000915527344
+      },
+      "container": {
+        "bottom": 293.60001373291016,
+        "height": 120.70000457763672,
+        "left": 52.79999923706055,
+        "right": 776.0000114440918,
+        "top": 172.90000915527344,
+        "width": 723.2000122070312,
+        "x": 52.79999923706055,
+        "y": 172.90000915527344
+      },
+      "count": 1,
+      "imageRendering": "pixelated",
+      "native": [
+        320,
+        192
+      ],
+      "ready": true,
+      "scrollWidth": 829,
+      "world": {
+        "x": 41.06666666666655,
+        "y": 56
+      }
+    }
+  ],
+  "reload": {
+    "count": 1,
+    "playing": false,
+    "state": {
+      "facing": "down",
+      "moving": false,
+      "world": {
+        "x": 8,
+        "y": 56
+      }
+    }
+  },
+  "console": {
+    "entries": [
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      }
+    ],
+    "truncated": false
+  },
+  "network": {
+    "entries": [
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/knight-art.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722178526
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX/AP804Oa6AAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722178813
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABVJREFUeF7NwIEAAAAAgKD9qdeocAMAoAABm3DkcAAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722178813
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJ9JREFUeNq01ssOwyAMRFG46v//Mt1ESmgh+DFmE2GPOBARKb2NVjo+17PXLD8a1+pl5+A+wSgFygymWYHBb0FtsKhJDdZlncG2IzJ4ayoMDv20wTmSMzClEgbWYNTAkQ0Z+OJ+A/eWnAaR9+oxCF4Os0H8htsMUp+pwcgBBiMNnAwF8GqIgL2hAzaGFFgZauDPKABmowZ4GL369/0rwACp2yA/ttmvsQAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722178813
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABdJREFUeNpi/P//PwMMMDEgAdwcgAADAJZuAwXJYZOzAAAAAElFTkSuQmCC",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722178813
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX//wCKxvRFAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722178813
+      },
+      {
+        "url": "http://127.0.0.1:5173/assets/dungeon/tilemap_packed.png",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722178813
+      },
+      {
+        "url": "blob:http://127.0.0.1:5173/39938923-aee5-41a4-a345-68c2a08a6a47",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722178916
+      },
+      {
+        "url": "http://127.0.0.1:5173/",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/html",
+        "timestamp": 1794722326113
+      },
+      {
+        "url": "http://127.0.0.1:5173/@vite/client",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/main.ts?t=1794722325186",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/node_modules/.vite/deps/phaser.js?v=d8b00ffe",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/map/room.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/fit-room.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/scenes/RoomScene.ts?t=1794722325186",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/style.css?t=1794719822003",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/room-art.ts?t=1794719754601",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/Player.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/map/collision.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/player-view.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/input.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/movement.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/knight-art.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722326220
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX/AP804Oa6AAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722326513
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABVJREFUeF7NwIEAAAAAgKD9qdeocAMAoAABm3DkcAAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722326513
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJ9JREFUeNq01ssOwyAMRFG46v//Mt1ESmgh+DFmE2GPOBARKb2NVjo+17PXLD8a1+pl5+A+wSgFygymWYHBb0FtsKhJDdZlncG2IzJ4ayoMDv20wTmSMzClEgbWYNTAkQ0Z+OJ+A/eWnAaR9+oxCF4Os0H8htsMUp+pwcgBBiMNnAwF8GqIgL2hAzaGFFgZauDPKABmowZ4GL369/0rwACp2yA/ttmvsQAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722326513
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABdJREFUeNpi/P//PwMMMDEgAdwcgAADAJZuAwXJYZOzAAAAAElFTkSuQmCC",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722326513
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX//wCKxvRFAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722326513
+      },
+      {
+        "url": "http://127.0.0.1:5173/assets/dungeon/tilemap_packed.png",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722326513
+      },
+      {
+        "url": "blob:http://127.0.0.1:5173/3f724417-b7c3-4cf0-b829-0fd9d552f0dc",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722326513
+      },
+      {
+        "url": "http://127.0.0.1:5173/",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/html",
+        "timestamp": 1794722332319
+      },
+      {
+        "url": "http://127.0.0.1:5173/@vite/client",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332420
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/main.ts?t=1794722325186",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332420
+      },
+      {
+        "url": "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332420
+      },
+      {
+        "url": "http://127.0.0.1:5173/node_modules/.vite/deps/phaser.js?v=d8b00ffe",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332420
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/map/room.ts",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332420
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/fit-room.ts",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332420
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/scenes/RoomScene.ts?t=1794722325186",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332420
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/style.css?t=1794719822003",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332420
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/room-art.ts?t=1794719754601",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332421
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/Player.ts?t=1794722111869",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332421
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/map/collision.ts",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332421
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/player-view.ts?t=1794722111869",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332421
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/input.ts",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332421
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/movement.ts",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332421
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/knight-art.ts?t=1794722111869",
+        "method": "GET",
+        "status": 304,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722332421
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX/AP804Oa6AAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722332513
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABVJREFUeF7NwIEAAAAAgKD9qdeocAMAoAABm3DkcAAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722332513
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJ9JREFUeNq01ssOwyAMRFG46v//Mt1ESmgh+DFmE2GPOBARKb2NVjo+17PXLD8a1+pl5+A+wSgFygymWYHBb0FtsKhJDdZlncG2IzJ4ayoMDv20wTmSMzClEgbWYNTAkQ0Z+OJ+A/eWnAaR9+oxCF4Os0H8htsMUp+pwcgBBiMNnAwF8GqIgL2hAzaGFFgZauDPKABmowZ4GL369/0rwACp2yA/ttmvsQAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722332513
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABdJREFUeNpi/P//PwMMMDEgAdwcgAADAJZuAwXJYZOzAAAAAElFTkSuQmCC",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722332513
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX//wCKxvRFAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722332513
+      },
+      {
+        "url": "http://127.0.0.1:5173/assets/dungeon/tilemap_packed.png",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722332513
+      },
+      {
+        "url": "blob:http://127.0.0.1:5173/3e69db52-66c9-4824-9631-085e1effe53e",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722332624
+      },
+      {
+        "url": "http://127.0.0.1:5173/",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/html",
+        "timestamp": 1794722401013
+      },
+      {
+        "url": "http://127.0.0.1:5173/@vite/client",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401114
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/main.ts?t=1794722325186",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401114
+      },
+      {
+        "url": "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401114
+      },
+      {
+        "url": "http://127.0.0.1:5173/node_modules/.vite/deps/phaser.js?v=d8b00ffe",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401114
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/map/room.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401114
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/fit-room.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401114
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/scenes/RoomScene.ts?t=1794722325186",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401114
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/style.css?t=1794719822003",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401114
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/room-art.ts?t=1794719754601",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401115
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/Player.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401115
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/map/collision.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401115
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/player-view.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401115
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/input.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401115
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/movement.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401115
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/knight-art.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722401115
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX/AP804Oa6AAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722401517
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABVJREFUeF7NwIEAAAAAgKD9qdeocAMAoAABm3DkcAAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722401517
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJ9JREFUeNq01ssOwyAMRFG46v//Mt1ESmgh+DFmE2GPOBARKb2NVjo+17PXLD8a1+pl5+A+wSgFygymWYHBb0FtsKhJDdZlncG2IzJ4ayoMDv20wTmSMzClEgbWYNTAkQ0Z+OJ+A/eWnAaR9+oxCF4Os0H8htsMUp+pwcgBBiMNnAwF8GqIgL2hAzaGFFgZauDPKABmowZ4GL369/0rwACp2yA/ttmvsQAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722401517
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABdJREFUeNpi/P//PwMMMDEgAdwcgAADAJZuAwXJYZOzAAAAAElFTkSuQmCC",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722401517
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX//wCKxvRFAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722401517
+      },
+      {
+        "url": "http://127.0.0.1:5173/assets/dungeon/tilemap_packed.png",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722401517
+      },
+      {
+        "url": "blob:http://127.0.0.1:5173/01595ece-8e7b-4cd6-a0a6-d46fe11bf2ae",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722401517
+      },
+      {
+        "url": "http://127.0.0.1:5173/",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/html",
+        "timestamp": 1794722424114
+      },
+      {
+        "url": "http://127.0.0.1:5173/@vite/client",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424114
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/main.ts?t=1794722325186",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424114
+      },
+      {
+        "url": "http://127.0.0.1:5173/node_modules/.vite/deps/phaser.js?v=d8b00ffe",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424114
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/map/room.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424218
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/fit-room.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424218
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/scenes/RoomScene.ts?t=1794722325186",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424218
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/style.css?t=1794719822003",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/room-art.ts?t=1794719754601",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/Player.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/map/collision.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/player-view.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/input.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/player/movement.ts",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "http://127.0.0.1:5173/src/rendering/knight-art.ts?t=1794722111869",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "text/javascript",
+        "timestamp": 1794722424219
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX/AP804Oa6AAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722426918
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABVJREFUeF7NwIEAAAAAgKD9qdeocAMAoAABm3DkcAAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722426918
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJ9JREFUeNq01ssOwyAMRFG46v//Mt1ESmgh+DFmE2GPOBARKb2NVjo+17PXLD8a1+pl5+A+wSgFygymWYHBb0FtsKhJDdZlncG2IzJ4ayoMDv20wTmSMzClEgbWYNTAkQ0Z+OJ+A/eWnAaR9+oxCF4Os0H8htsMUp+pwcgBBiMNnAwF8GqIgL2hAzaGFFgZauDPKABmowZ4GL369/0rwACp2yA/ttmvsQAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722426918
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABdJREFUeNpi/P//PwMMMDEgAdwcgAADAJZuAwXJYZOzAAAAAElFTkSuQmCC",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722426918
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABAQMAAADD8p2OAAAAA1BMVEX//wCKxvRFAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722426918
+      },
+      {
+        "url": "http://127.0.0.1:5173/assets/dungeon/tilemap_packed.png",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722426918
+      },
+      {
+        "url": "blob:http://127.0.0.1:5173/548e7667-d061-43c7-81bb-3e661b1a4206",
+        "method": "GET",
+        "status": 200,
+        "mimeType": "image/png",
+        "timestamp": 1794722426919
+      }
+    ],
+    "truncated": true
+  }
+}

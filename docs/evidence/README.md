@@ -1,6 +1,6 @@
 # 工程證據管理
 
-工程初始化驗證另存於 [setup.md](setup.md)，不視為任一輪遊戲驗收。第一輪地圖的實作與驗證見 [round-01/README.md](round-01/README.md)；第二輪尚未實作。
+工程初始化驗證另存於 [setup.md](setup.md)，不視為任一輪遊戲驗收。第一輪地圖的實作與驗證見 [round-01/README.md](round-01/README.md)；第二輪角色、移動、碰撞及動畫見 [round-02/README.md](round-02/README.md)。
 
 當每輪實際完成時，視可用工具保存到 `round-01/`、`round-02/`：
 

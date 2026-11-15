@@ -4,21 +4,21 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" href="data:," />
-    <meta name="description" content="Dungeon Lab 第一輪實驗：固定地下城房間與格子地圖。" />
-    <title>Dungeon Lab · Experiment 01</title>
+    <meta name="description" content="Dungeon Lab 第二輪實驗：地下城角色自由移動與碰撞。" />
+    <title>Dungeon Lab · Experiment 02</title>
   </head>
   <body>
     <main class="page">
       <header>
         <p class="site-name">Dungeon Lab</p>
-        <p class="experiment">Experiment 01</p>
+        <p class="experiment">Experiment 02</p>
         <h1>地下城房間測試</h1>
       </header>
       <figure class="room-frame" aria-labelledby="room-caption">
         <div id="map-viewport"><div id="game"></div></div>
         <p id="status" role="status">正在載入地下城…</p>
       </figure>
-      <p id="room-caption" class="room-caption">固定測試房間 · 20 × 12 格</p>
+      <p id="room-caption" class="room-caption">固定測試房間 · 20 × 12 格<br />WASD / 方向鍵：移動</p>
       <noscript>請啟用 JavaScript 以瀏覽地下城。</noscript>
     </main>
     <script type="module" src="/src/main.ts"></script>

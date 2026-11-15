@@ -1,8 +1,11 @@
 import Phaser from 'phaser';
 import { ROOM, ROOM_CELLS, getCell, gridToWorld, worldToRender } from '../map/room.ts';
 import { DUNGEON_SHEET, DUNGEON_TEXTURE, tileArt } from '../rendering/room-art.ts';
+import { Player } from '../player/Player.ts';
+import { roomCollisionRects } from '../map/collision.ts';
 
 export class RoomScene extends Phaser.Scene {
+  player?: Player;
   constructor() {
     super('room');
   }
@@ -25,6 +28,7 @@ export class RoomScene extends Phaser.Scene {
     if (!this.textures.exists(DUNGEON_TEXTURE)) return;
     const size = ROOM.tileSize;
     const edges = this.add.graphics().setDepth(1);
+    const blockers: Phaser.GameObjects.Zone[] = [];
 
     for (const row of ROOM_CELLS) {
       for (const cell of row) {
@@ -43,7 +47,7 @@ export class RoomScene extends Phaser.Scene {
           edges.fillRect(x + size - 1, y, 1, size);
         }
 
-        // Raised stone edges stay inside their blocked cells. No physics is created.
+        // Raised stone edges stay inside their blocked cells.
         if (cell.terrain === 'wall' || cell.terrain === 'obstacle') {
           const same = (col: number, row: number) => getCell(col, row)?.terrain === cell.terrain;
           edges.fillStyle(0xb2c0d2);
@@ -56,6 +60,15 @@ export class RoomScene extends Phaser.Scene {
       }
     }
 
+    for (const rect of roomCollisionRects()) {
+      const center = worldToRender(gridToWorld(
+        rect.col + (rect.columns - 1) / 2, rect.row + (rect.rows - 1) / 2,
+      ));
+      const blocker = this.add.zone(center.x, center.y, rect.columns * size, rect.rows * size);
+      this.physics.add.existing(blocker, true);
+      blockers.push(blocker);
+    }
+    this.player = new Player(this, blockers);
     this.cameras.main.setScroll(0, 0).setZoom(1);
     const status = document.querySelector<HTMLElement>('#status');
     if (status) status.hidden = true;
