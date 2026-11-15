@@ -1,0 +1,547 @@
+{
+  "results": [
+    {
+      "name": "desktop",
+      "canvas": {
+        "bottom": 834.8500061035156,
+        "height": 576,
+        "left": 240,
+        "right": 1200,
+        "top": 258.8500061035156,
+        "width": 960,
+        "x": 240,
+        "y": 258.8500061035156
+      },
+      "canvasCount": 1,
+      "container": {
+        "bottom": 914.4000396728516,
+        "height": 735.1000366210938,
+        "left": 180.8000030517578,
+        "right": 1259.2000274658203,
+        "top": 179.3000030517578,
+        "width": 1078.4000244140625,
+        "x": 180.8000030517578,
+        "y": 179.3000030517578
+      },
+      "imageRendering": "pixelated",
+      "native": [
+        320,
+        192
+      ],
+      "ready": true,
+      "scrollWidth": 1440,
+      "title": "Dungeon Lab · Experiment 01",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.250 Safari/537.36",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "name": "compact",
+      "canvas": {
+        "bottom": 622.8500061035156,
+        "height": 384,
+        "left": 192,
+        "right": 832,
+        "top": 238.85000610351562,
+        "width": 640,
+        "x": 192,
+        "y": 238.85000610351562
+      },
+      "canvasCount": 1,
+      "container": {
+        "bottom": 682.4000091552734,
+        "height": 503.1000061035156,
+        "left": 52.79999923706055,
+        "right": 971.200023651123,
+        "top": 179.3000030517578,
+        "width": 918.4000244140625,
+        "x": 52.79999923706055,
+        "y": 179.3000030517578
+      },
+      "imageRendering": "pixelated",
+      "native": [
+        320,
+        192
+      ],
+      "ready": true,
+      "scrollWidth": 1024,
+      "title": "Dungeon Lab · Experiment 01",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.250 Safari/537.36",
+      "viewport": [
+        1024,
+        768
+      ]
+    },
+    {
+      "name": "narrow",
+      "canvas": {
+        "bottom": 555.6499938964844,
+        "height": 192,
+        "left": 35.20000076293945,
+        "right": 355.20000076293945,
+        "top": 363.6499938964844,
+        "width": 320,
+        "x": 35.20000076293945,
+        "y": 363.6499938964844
+      },
+      "canvasCount": 1,
+      "container": {
+        "bottom": 776.4000091552734,
+        "height": 633.5,
+        "left": 28.80000114440918,
+        "right": 361.60001945495605,
+        "top": 142.90000915527344,
+        "width": 332.8000183105469,
+        "x": 28.80000114440918,
+        "y": 142.90000915527344
+      },
+      "imageRendering": "pixelated",
+      "native": [
+        320,
+        192
+      ],
+      "ready": true,
+      "scrollWidth": 390,
+      "title": "Dungeon Lab · Experiment 01",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.250 Safari/537.36",
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "name": "small",
+      "canvas": {
+        "bottom": 436.25001525878906,
+        "height": 157.1999969482422,
+        "left": 29,
+        "right": 291,
+        "top": 279.0500183105469,
+        "width": 262,
+        "x": 29,
+        "y": 279.0500183105469
+      },
+      "canvasCount": 1,
+      "container": {
+        "bottom": 572.4000091552734,
+        "height": 429.5,
+        "left": 28.80000114440918,
+        "right": 291.19999504089355,
+        "top": 142.90000915527344,
+        "width": 262.3999938964844,
+        "x": 28.80000114440918,
+        "y": 142.90000915527344
+      },
+      "imageRendering": "pixelated",
+      "native": [
+        320,
+        192
+      ],
+      "ready": true,
+      "scrollWidth": 320,
+      "title": "Dungeon Lab · Experiment 01",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.250 Safari/537.36",
+      "viewport": [
+        320,
+        640
+      ]
+    },
+    {
+      "name": "landscape",
+      "canvas": {
+        "bottom": 314.90000915527344,
+        "height": 142,
+        "left": 296.0625,
+        "right": 532.7250061035156,
+        "top": 172.90000915527344,
+        "width": 236.66250610351562,
+        "x": 296.0625,
+        "y": 172.90000915527344
+      },
+      "canvasCount": 1,
+      "container": {
+        "bottom": 314.40000915527344,
+        "height": 141.5,
+        "left": 52.79999923706055,
+        "right": 776.0000114440918,
+        "top": 172.90000915527344,
+        "width": 723.2000122070312,
+        "x": 52.79999923706055,
+        "y": 172.90000915527344
+      },
+      "imageRendering": "pixelated",
+      "native": [
+        320,
+        192
+      ],
+      "ready": true,
+      "scrollWidth": 829,
+      "title": "Dungeon Lab · Experiment 01",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.250 Safari/537.36",
+      "viewport": [
+        844,
+        390
+      ]
+    }
+  ],
+  "console": {
+    "entries": [
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] hot updated: /src/style.css"
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connecting..."
+      },
+      {
+        "level": "debug",
+        "text": "[vite] connected."
+      }
+    ],
+    "truncated": false
+  },
+  "requests": [
+    {
+      "url": "http://127.0.0.1:5173/",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/html",
+      "timestamp": 1794719694705
+    },
+    {
+      "url": "http://127.0.0.1:5173/@vite/client",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719694803
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/main.ts",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719694803
+    },
+    {
+      "url": "http://127.0.0.1:5173/node_modules/.vite/deps/phaser.js?v=d8b00ffe",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719694804
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/map/room.ts",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719694804
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/rendering/fit-room.ts",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719694804
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/scenes/RoomScene.ts",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719694804
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/style.css",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719694804
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/rendering/room-art.ts",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719694909
+    },
+    {
+      "url": "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719695013
+    },
+    {
+      "url": "http://127.0.0.1:5173/assets/dungeon/tilemap_packed.png",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "image/png",
+      "timestamp": 1794719698405
+    },
+    {
+      "url": "http://127.0.0.1:5173/",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/html",
+      "timestamp": 1794719755107
+    },
+    {
+      "url": "http://127.0.0.1:5173/@vite/client",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719755205
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/main.ts?t=1794719754601",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719755205
+    },
+    {
+      "url": "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719755205
+    },
+    {
+      "url": "http://127.0.0.1:5173/node_modules/.vite/deps/phaser.js?v=d8b00ffe",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719755205
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/map/room.ts",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719755205
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/rendering/fit-room.ts",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719755205
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/scenes/RoomScene.ts?t=1794719754601",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719755205
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/style.css",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719755205
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/rendering/room-art.ts?t=1794719754601",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719755206
+    },
+    {
+      "url": "http://127.0.0.1:5173/assets/dungeon/tilemap_packed.png",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "image/png",
+      "timestamp": 1794719757710
+    },
+    {
+      "url": "http://127.0.0.1:5173/",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/html",
+      "timestamp": 1794719757710
+    },
+    {
+      "url": "http://127.0.0.1:5173/@vite/client",
+      "method": "GET",
+      "status": 304,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719757711
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/main.ts?t=1794719756152",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719757711
+    },
+    {
+      "url": "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+      "method": "GET",
+      "status": 304,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719757711
+    },
+    {
+      "url": "http://127.0.0.1:5173/node_modules/.vite/deps/phaser.js?v=d8b00ffe",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719757711
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/map/room.ts",
+      "method": "GET",
+      "status": 304,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719757711
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/rendering/fit-room.ts",
+      "method": "GET",
+      "status": 304,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719757711
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/scenes/RoomScene.ts?t=1794719756152",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719757711
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/style.css",
+      "method": "GET",
+      "status": 304,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719757711
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/rendering/room-art.ts?t=1794719754601",
+      "method": "GET",
+      "status": 304,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719757712
+    },
+    {
+      "url": "http://127.0.0.1:5173/assets/dungeon/tilemap_packed.png",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "image/png",
+      "timestamp": 1794719760208
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/style.css?t=1794719822003",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719822109
+    },
+    {
+      "url": "http://127.0.0.1:5173/",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/html",
+      "timestamp": 1794719848906
+    },
+    {
+      "url": "http://127.0.0.1:5173/@vite/client",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719848906
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/main.ts?t=1794719822003",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719848906
+    },
+    {
+      "url": "http://127.0.0.1:5173/node_modules/.vite/deps/phaser.js?v=d8b00ffe",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719848906
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/map/room.ts",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719848906
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/rendering/fit-room.ts",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719848906
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/scenes/RoomScene.ts?t=1794719756152",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719848906
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/style.css?t=1794719822003",
+      "method": "GET",
+      "status": 304,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719848906
+    },
+    {
+      "url": "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719848906
+    },
+    {
+      "url": "http://127.0.0.1:5173/src/rendering/room-art.ts?t=1794719754601",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "timestamp": 1794719848906
+    },
+    {
+      "url": "http://127.0.0.1:5173/assets/dungeon/tilemap_packed.png",
+      "method": "GET",
+      "status": 200,
+      "mimeType": "image/png",
+      "timestamp": 1794719849112
+    }
+  ]
+}

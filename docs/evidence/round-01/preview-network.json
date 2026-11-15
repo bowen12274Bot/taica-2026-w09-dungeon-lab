@@ -1,0 +1,30 @@
+[
+  {
+    "url": "http://127.0.0.1:4173/",
+    "method": "GET",
+    "status": 200,
+    "mimeType": "text/html",
+    "timestamp": 1794720079609
+  },
+  {
+    "url": "http://127.0.0.1:4173/assets/index-BIx83114.js",
+    "method": "GET",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "timestamp": 1794720079713
+  },
+  {
+    "url": "http://127.0.0.1:4173/assets/index-BxQmjhMN.css",
+    "method": "GET",
+    "status": 200,
+    "mimeType": "text/css",
+    "timestamp": 1794720079713
+  },
+  {
+    "url": "http://127.0.0.1:4173/assets/dungeon/tilemap_packed.png",
+    "method": "GET",
+    "status": 200,
+    "mimeType": "image/png",
+    "timestamp": 1794720080105
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "docs/requirements/round-01-map.md": {
+    "sha256": "52dc1004b77c859f15577f44146d34be17816722abd7d17fb852a157363b1a00",
+    "lfNormalizedSha256": "52dc1004b77c859f15577f44146d34be17816722abd7d17fb852a157363b1a00"
+  },
+  "docs/requirements/round-02-movement.md": {
+    "sha256": "d4db9dcf3677401b937c7ca922ef4ffb7de0eeee6a570bb8e0122bd9b7f8140a",
+    "lfNormalizedSha256": "d4db9dcf3677401b937c7ca922ef4ffb7de0eeee6a570bb8e0122bd9b7f8140a"
+  },
+  "AGENTS.md": {
+    "sha256": "76c106a455eeb7c2db609d6059fa85e04cf62c5d0f7772a7e163cffd27acc672",
+    "lfNormalizedSha256": "76c106a455eeb7c2db609d6059fa85e04cf62c5d0f7772a7e163cffd27acc672"
+  },
+  ".agents/skills/phaser-2d-game/SKILL.md": {
+    "sha256": "5706db3d7b8c541be364f56019d2691c352a03bfc3372848a2a3a1fde8ac6d69",
+    "lfNormalizedSha256": "5706db3d7b8c541be364f56019d2691c352a03bfc3372848a2a3a1fde8ac6d69"
+  },
+  ".agents/skills/game-playtest/SKILL.md": {
+    "sha256": "0a34ae047a673a7da79c09fd12c08f5a339fa08f5c33673880978a9538497468",
+    "lfNormalizedSha256": "0a34ae047a673a7da79c09fd12c08f5a339fa08f5c33673880978a9538497468"
+  },
+  "public/assets/dungeon/tilemap_packed.png": {
+    "sha256": "d24e60a41e4ac7a745c0304dfde121143688557f40215f23221c29cfe683825f"
+  },
+  "public/assets/dungeon/License.txt": {
+    "sha256": "9f574a2f1f636a3db8a0665ba90212f34e2b5e61ecb533d77c05237766374111"
+  }
+}

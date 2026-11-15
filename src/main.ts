@@ -1,26 +1,42 @@
 import Phaser from 'phaser';
+import { ROOM } from './map/room.ts';
+import { fitRoomScale } from './rendering/fit-room.ts';
+import { RoomScene } from './scenes/RoomScene.ts';
 import './style.css';
 
-// This empty canvas verifies engine startup only; no experiment is implemented.
+const viewport = document.querySelector<HTMLElement>('#map-viewport');
+if (!viewport) throw new Error('Missing map viewport');
+
+const resize = () => {
+  const scale = fitRoomScale(viewport.clientWidth, viewport.clientHeight);
+  if (scale > 0) game.scale.setZoom(scale);
+};
+const observer = new ResizeObserver(resize);
+
 const game = new Phaser.Game({
   type: Phaser.AUTO,
   parent: 'game',
-  width: 640,
-  height: 360,
-  backgroundColor: '#171b24',
+  width: ROOM.width,
+  height: ROOM.height,
+  backgroundColor: '#171c25',
+  pixelArt: true,
+  roundPixels: true,
   banner: false,
   audio: { noAudio: true },
-  scene: [],
+  input: { keyboard: false, mouse: false, touch: false, gamepad: false },
+  scale: { mode: Phaser.Scale.NONE, autoRound: false },
+  scene: [RoomScene],
   callbacks: {
     postBoot: () => {
-      const status = document.querySelector<HTMLParagraphElement>('#status');
-      if (status) {
-        status.textContent = '工程環境已就緒。等待第一輪正式需求。';
-      }
+      observer.observe(viewport);
+      resize();
     },
   },
 });
 
 if (import.meta.hot) {
-  import.meta.hot.dispose(() => game.destroy(true));
+  import.meta.hot.dispose(() => {
+    observer.disconnect();
+    game.destroy(true);
+  });
 }

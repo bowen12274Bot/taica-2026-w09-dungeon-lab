@@ -1,0 +1,30 @@
+﻿
+> dungeon-lab@0.0.0 build
+> npm run typecheck && vite build
+
+
+> dungeon-lab@0.0.0 typecheck
+> tsc --noEmit
+
+vite v8.3.8 building client environment for production...
+transforming...
+✓ 10 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                     1.10 kB │ gzip:   0.62 kB
+dist/assets/index-BxQmjhMN.css      1.36 kB │ gzip:   0.69 kB
+dist/assets/index-BIx83114.js   1,370.92 kB │ gzip: 358.93 kB
+
+npm.cmd : [plugin builtin:vite-reporter] 
+位於 線路:2 字元:202
++ ...  0) { exit $testExit }; $buildOutput = npm.cmd run build 2>&1; $build ...
++                                            ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([plugin builtin:vite-reporter] :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rolldownOptions.output.codeSplitting to improve chunking: https://rolldown.rs/reference/OutputOptions.codeS
+plitting
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 637ms

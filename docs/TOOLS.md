@@ -7,7 +7,7 @@
 | 項目 | 狀態 | 用途 | 參考 |
 | --- | --- | --- | --- |
 | TypeScript | 已安裝、鎖定 7.0.2 | 遊戲規則與專案型別 | https://www.typescriptlang.org/ |
-| Phaser | 已安裝、鎖定 4.2.1 | 目前僅驗證空白引擎啟動 | https://docs.phaser.io/ |
+| Phaser | 已安裝、鎖定 4.2.1 | 第一輪固定房間場景與像素圖塊繪製 | https://docs.phaser.io/ |
 | Vite | 已安裝、鎖定 8.3.8 | 開發伺服器、靜態建置 | https://vite.dev/ |
 | GitHub Pages | 預計部署、未啟用 | 第九週公開網頁 | https://docs.github.com/en/pages |
 | Playwright | 選用、未安裝 | 瀏覽器 QA 與可重現操作 | https://playwright.dev/ |
@@ -15,6 +15,8 @@
 初始化版本取自 npm registry 的穩定標籤；Vite 的 Node.js 要求為 `^20.19.0 || >=22.12.0`，本機 `24.21.0` 符合。Phaser 已內含 TypeScript 型別，未另裝 `@types/phaser`。依據：[Vite 官方指南](https://vite.dev/guide/)、[Phaser 安裝文件](https://docs.phaser.io/phaser/getting-started/installation)。
 
 本次瀏覽器驗證使用已提供的 Orca CLI 內嵌瀏覽器，未額外安裝 Playwright。實際驗證與限制見 [evidence/setup.md](evidence/setup.md)。
+
+第一輪新增 Node.js 內建測試，直接載入純資料 `.ts` 模組，Node.js 支援範圍調整為 `^22.18.0 || >=24.0.0`，依據 [Node.js TypeScript 文件](https://nodejs.org/api/typescript.html)。本機版本及既有三個套件版本未變，未新增依賴。第一輪驗證見 [evidence/round-01/README.md](evidence/round-01/README.md)。
 
 選用 Phaser 穩定版本時，先確認其現有 API、TypeScript 支援與套件相容性。不要混用不同大版本的 Skill/API。
 
@@ -28,14 +30,14 @@
 - https://github.com/openai/plugins/blob/main/plugins/game-studio/skills/phaser-2d-game/SKILL.md
 - https://github.com/openai/plugins/blob/main/plugins/game-studio/skills/game-playtest/SKILL.md
 
-## 基本美術（尚未下載）
+## 基本美術（第一輪已取得）
 
 建議素材：**Kenney Tiny Dungeon**，原始圖塊 16 × 16、CC0 授權，可研究地板、牆壁、角色 Sprite。
 
 - 官方素材頁：https://kenney.nl/assets/tiny-dungeon
 - 備用發行頁：https://kenney-assets.itch.io/tiny-dungeon
 
-目前無任何素材圖片。第一輪需求定案後再依具體地圖樣式選用素材，第二輪再選擇人物 Sprite。保留來源與授權資訊；不要虛稱已包含美術。
+已從 Kenney 官方 itch.io 發行頁下載 Tiny Dungeon 1.0，保留原始 packed 圖集與 License.txt。僅使用本輪地形及閉門圖塊，人物 Sprite 留待第二輪。來源、圖塊索引及美術處理見 [素材說明](../public/assets/dungeon/README.md)。
 
 ## 選型的非目標
 
